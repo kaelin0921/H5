@@ -1,0 +1,384 @@
+.arse{
+	width:1263px;
+	margin:0 auto;
+}
+
+.hide{
+	display:none;
+}
+
+.topnav{
+	width:100%;
+	height:88px;
+}
+
+.tnav_had{
+	height:44px;
+	padding:22px 0;
+	background:#fff;
+}
+
+.tnav_had img{
+	width:190px;
+	height:27px;
+	margin:10px 0 0 30px;
+}
+/*主体*/
+.content{
+	width:100%;
+	height:600px;
+	background:rgb(137, 42, 204);
+}
+
+.cont{
+	height:600px;
+	background:url(../../image/login/TB1j3MIkq6qK1RjSZFmSut0PFXa.jpg);
+	background-size: 100%;
+	position: relative;
+}
+
+.cont_1{
+	width:345px;
+	height:404px;
+	background:#fff;
+	position:absolute;
+	right: 107px;
+    bottom: 70px;
+    box-sizing:border-box;
+    padding:25px;
+}
+
+.cont_1_top{
+
+}
+
+.cont_1_top>span{
+	height: 18px;
+    line-height: 18px;
+    font-size: 16px;
+    color: #3c3c3c;
+    font-weight:700;
+    float:left;
+    margin-top:15px;
+}
+
+.cont_1_t_A{
+	width:143px;
+	height:28px;
+	border:1px solid #f3d995;
+	background: #fefcee;
+	font-size:12px;
+	color:#df9c1f;
+	font-weight: 400;
+	line-height: 28px;
+	text-align: center;
+	position:relative;
+	position: absolute;
+	top:10px;
+	right:57px;
+}
+
+.icon-baohu{
+	color:#df9c1f;
+	font-size:12px !important;
+}
+.cont_1_t_A span{
+	position: absolute;
+    width: 6px;
+    height: 6px;
+    border:1px solid rgba(255,255,255,0);
+    top: 0;
+    right: -10px;
+    background:#fefcee;
+}
+
+.cont_1_input1{
+	width:292px;
+	height:40px;
+	border:1px solid #ccc;
+	margin-top:25px;
+}
+.cont_1_fom{
+
+}
+
+.cont_1_fom div{
+	float:left;
+	width:40px;
+	height:40px;
+	border:0;
+	background:#ddd;
+	line-height: 40px;
+	text-align: center;
+}
+
+.cont_1_fom input{
+	float:left;
+	width:196px;
+	height:17px;
+	padding:11px 8px;
+	border:none;
+	position:relative;
+}
+.mima span{
+	position:absolute;
+	right:0;
+	color:#000;
+}
+
+.small{
+	background:#fff;
+	font-size: 10px;
+	line-height: 40px;
+
+}
+.small_1{
+	background:#fff;
+	font-size: 10px;
+	line-height: 40px;
+}
+
+
+.cont_1_top_tb{
+	position:absolute;
+	top:8px;
+	right:5px;
+}
+
+/*字体图标*/
+
+.icon-erweimajiaobiao{
+	font-size:52px;
+	color:#ff0036;
+	
+}
+.icon-jiedianhuiyuanhuaxiang{
+	color:#606060;
+	font-size:18px;
+}
+.icon-suo{
+	color:#606060;
+	font-size:18px;
+}
+.icon-erweimaqiejiao-rzt{
+	font-size:52px;
+	color:#ff0036;
+}
+
+.cont_1_top_tb{
+	width:52px;
+	height:52px;
+	overflow:hidden;
+}
+.icon-erweimajiaobiao1{
+    font-size: 87px;
+}
+
+
+
+
+
+.cont_1_button{
+	width:300px;
+	height:42px;
+	background:#ff0036;
+	border:none;
+	border-radius:3px;
+	color:#fff;
+	font-size: 16px;
+    font-weight: 700;
+    margin:20px 0;
+}
+.cont_1_button:hover{
+	background:rgba(255,0,54,.8);
+}
+.cont_1{
+	text-align:right;
+}
+.cont_1 a{
+	font-size:12px;
+	color:#6c6c6c;
+	margin-left:10px;
+}
+.cont_1 a:hover{
+	color:#ff0036;
+}
+
+
+
+.cont_1_rwm{
+	width:140px;
+	height:140px;
+	margin:25px auto;
+	position:relative;
+}
+.cont_1_rwm_imb{
+	position:absolute;
+	left:0px;
+}
+
+
+.cont_1_rwm_ima{
+	width:120px;
+	height:180px;
+	position:absolute;
+	top: -14px;
+    right: -62px;
+    display: none;
+}
+.cont_1_rwm_imc{
+	position:absolute;
+	width: 300px;
+    height: 149px;
+    top: 0;
+    left: -77px;
+}
+
+
+
+
+.icon-saomiaoerweima{
+	font-size:35px;
+	color:#ff0036;
+	float: left;
+	height:36px;
+	margin-top:10px;
+	margin-right:10px;
+}
+
+.saomiao{
+	color:#9c9c9c;
+	font-size:12px;
+	text-align:left;
+	line-height: 15px;
+	width:193px;
+	height:36px;
+	line-height: 20px;
+	margin:0 auto;
+	padding-bottom:30px;
+
+}
+
+.saomiao a{
+	font-size:12px;
+	color:#ff0036;
+	margin:0 6px;
+}
+
+
+
+
+/*底栏*/
+.foot_3{
+	width:1190px;
+	height:230px;
+	background:#fff;
+	padding-left:38px;
+	font-size:12px;
+}
+.foot_3 a{
+	font-size:12px;
+}
+.foot_3_1{
+	margin-top:30px;
+}
+.foot_3_1 a{
+	color:#666;
+	line-height:40px;
+	margin:0 3px;
+}
+.foot_3_2{
+	color:#a4a4a4;
+	margin:10px 0;
+}
+.foot_3_2 a{
+	color:#a4a4a4;
+	margin:0 5px;
+	color:#666;
+}
+
+.foot_3_3{
+	color:#a4a4a4;
+	font-size: 12px
+}
+.foot_3_3 span{
+	margin-right:50px;
+}
+.foot_3_3 a{
+	color:#a4a4a4;
+}
+
+.foot_3_4{
+	color:#a4a4a4;
+	line-height:26px;
+}
+.foot_3_4 a{
+	color:#a4a4a4;
+}
+.foot_3_4 span{
+	margin-right:50px;
+}
+
+.foot_3_5{
+	color:#686868;
+	font-weight: 400;
+}
+
+.foot_3 img{
+	margin:5px 5px 0 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
